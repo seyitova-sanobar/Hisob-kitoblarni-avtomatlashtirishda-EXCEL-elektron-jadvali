@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Testlar</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="hero">
+<h1>Metodik qo'llanma fayllari</h1>
+</div>
+
+<section class="cards"></section>
+
+<div class="card">
+<h3>Metodik qo'llanma</h3>
+<a href="Metodik_qo'llanma_Seyitova_2026.pdf" target="_blank">Ochish</a>
+</div>
+
+<div class="card">
+<h3>Ilovalar</h3>
+<a href="1-ilova.pdf" target="_blank">Ochish</a>
+</div>
+
+<div class="card">
+<h3>Taqrizlar</h3>
+<a href="taqrizlar.pdf" target="_blank">Ochish</a>
+</div>
+
+</section>
+
+<center style="margin:40px;">
+<a href="index.html" class="telegram-btn">⬅ Orqaga</a>
+</center>
+
+</body>
+</html>
